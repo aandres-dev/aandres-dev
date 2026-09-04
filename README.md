@@ -10,8 +10,8 @@ do not accept the work until I can verify it.
 ## Quick path
 
 1. Read how I work (this page).
-2. Open the portfolio source: [andres-dev-portfolio](https://github.com/aandres-dev/andres-dev-portfolio).
-3. The live site ships from that repo when it is deployed.
+2. The portfolio site will be public when it is deployed.
+3. Product work stays private until it is registered.
 
 ## Details
 
@@ -30,7 +30,7 @@ do not accept the work until I can verify it.
 
 ## Next step
 
-Deploy [andres-dev-portfolio](https://github.com/aandres-dev/andres-dev-portfolio)
-with `_headers` honoured (Cloudflare Pages or Netlify). Pin that repo here.
+Deploy the portfolio with `_headers` honoured (Cloudflare Pages or Netlify)
+when the public page is ready. Do not pin a private repo.
 
 Colombia.
