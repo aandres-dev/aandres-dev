@@ -1,36 +1,44 @@
 ![The Human Directs. The Machine Executes.](banner.svg)
 
-# Andrés López — Software AI Orchestrator
+# Andrés López — AI Product Orchestrator
 
-I do not write every line by hand. I define the problem, set the rules, and I
-do not accept the work until I can verify it.
+I translate real operational problems into clear, useful, and verified digital products through human-directed, AI-assisted engineering.
 
-**SDD · RDD · TDD.** The human directs. The machine executes.
+**Portfolio:** [andres-dev-portfolio.netlify.app](https://andres-dev-portfolio.netlify.app/)  
+**Methodology:** Spec-Driven Development (SDD) · RDD · TDD  
+**Operating Principle:** The Human Directs. The Machine Executes.  
+**Location:** Colombia · Open to remote opportunities  
 
-## Quick path
+---
 
-1. Read how I work (this page).
-2. The portfolio site will be public when it is deployed.
-3. Product work stays private until it is registered.
+## Operating Philosophy
 
-## Details
+> *"Anyone can generate code; understanding real operational logic cannot be faked. My systems work because I live their operation every day on the ground and know exactly how they must execute."*
 
-| Topic | Fact |
+I direct AI across domain modeling, product definition, UI/UX exploration, and software delivery. I write explicit Given/When/Then specifications, guide agent exploration across decoupled architectures, and require automated test verification before accepting any code.
+
+---
+
+## Product Systems & Case Studies
+
+Explore live case studies, architectural decisions, and rejected alternatives on my portfolio:  
+👉 **[andres-dev-portfolio.netlify.app](https://andres-dev-portfolio.netlify.app/)**
+
+* **Campus Access Control & Operations:** Multi-gate physical security platform solving peak-hour bottlenecks and guard shift handovers through decoupled domain logic and continuous access verification.
+* **Offline-First Security Patrols:** Field application for guards in zero-connectivity posts, designed with single-tap local logging and automatic background synchronization upon network recovery.
+* **AI-Directed Development Workflow (SDD):** Formal specification contracts, multi-agent adversarial review, and multi-layer verification before merge.
+
+---
+
+## Architecture & Technical Direction
+
+| Focus | Disciplines & Tools |
 | --- | --- |
-| Role | Plan, orchestrate, and verify software with AI |
-| Method | Specs first, evidence before merge, no pass without proof |
-| Product work | Private until registered. Not listed here |
-| Studying | HTML, CSS, JavaScript, Flutter, React, Node.js, TypeScript, SQL, Docker, GitHub Actions |
+| **Product & UI/UX** | Operational domain modeling, interaction design, accessible web standards, single-action simplicity |
+| **Methodology** | Spec-Driven Development (SDD), Receipt-Driven Development (RDD), Test-Driven Development (TDD) |
+| **Architecture** | Clean Architecture, Domain-Driven Design (DDD), Decoupled Systems, Strict Grants & Schemas |
+| **Continuous Learning** | JavaScript, TypeScript, Flutter, React, PostgreSQL, SQLite, Docker, CI/CD |
 
-## Checklist
+---
 
-- [ ] The public portfolio does not name unpublished products
-- [ ] No employer or institution name on this profile
-- [ ] Product repositories stay private
-
-## Next step
-
-Deploy the portfolio with `_headers` honoured (Cloudflare Pages or Netlify)
-when the public page is ready. Do not pin a private repo.
-
-Colombia.
+Colombia. Built with web standards. Verified before shipping.
